@@ -19,9 +19,15 @@
 <br/>
 
 <!-- os 2 cards de stats https://github.com/anuraghazra/github-readme-stats-->
-<div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoZulian&show_icons=true&count_private=true&hide_border=true&title_color=FF9344&icon_color=ff7000&text_color=ffffff&bg_color=0d1117" alt="Thiago Zulian github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZulian&hide_border=true&title_color=FF9344&text_color=ffffff&bg_color=0d1117" alt="Languages Graph" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ThiagoZulian&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=FF9344&icon_color=ff7000&text_color=ffffff" >
+    <img alt="Thiago Zulian Stats" src="https://github-readme-stats.vercel.app/api?username=ThiagoZulian&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=FF9344&icon_color=ff7000&text_color=0D1117">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZulian&theme=transparent&hide_border=true&title_color=FF9344&text_color=ffffff">
+    <img alt="Thiago Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZulian&theme=transparent&hide_border=true&title_color=FF9344&text_color=0D1117">
+  </picture>
 </div>
 
 <br/>
