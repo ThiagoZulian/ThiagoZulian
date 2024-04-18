@@ -40,14 +40,15 @@
   <h3>Main Skills: </h3>
     <img alt="Python" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=0D1117">
-  
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0D1117.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas-0D1117.svg?style=for-the-badge&logo=pandas&logoColor=574c84">
+    <img alt="NumPy" src="https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=013243">
   <br/>
   <!-- Tecnologias já conhecidas -->
   <h3>Tools: </h3>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=0D1117">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-0D1117.svg?&style=for-the-badge&logo=Jupyter&logoColor=f37726&labelColor=0D1117">
-  
   <br/>
   <!-- Tecnologias já conhecidas -->
   <h3>Other Knowledge: </h3>
@@ -59,9 +60,6 @@
   <!-- Tecnologias que estou aprendendo -->
   <h3>Studying Techs: </h3>
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=ff8200&labelColor=0D1117">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0D1117.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-0D1117.svg?style=for-the-badge&logo=pandas&logoColor=574c84">
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=013243">
 </div>
 
 <br/>
