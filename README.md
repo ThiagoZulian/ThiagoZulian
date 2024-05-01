@@ -19,17 +19,17 @@
   
 <!-- Gráfico de commits/dia do mês https://github.com/ashutosh00710/github-readme-activity-graph-->
   [![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoZulian&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat%2CSun)](https://git.io/streak-stats)
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoZulian&height=300&bg_color=0d1117&color=ffffff&line=ff7000&point=ffa259&area=true&area_color=ffa259&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoZulian&height=300&bg_color=0d1117&color=ffffff&line=ff7000&point=ffa259&area=true&area_color=ffa259&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </div>
 
-<!-- os 2 cards de stats https://github.com/anuraghazra/github-readme-stats -->
+<!-- os 2 cards de stats https://github.com/anuraghazra/github-readme-stats 
 <div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoZulian&show_icons=true&count_private=true&hide_border=true&title_color=FF9344&icon_color=ff7000&text_color=ffffff&bg_color=0d1117" alt="Thiago Zulian github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZulian&hide_border=true&title_color=FF9344&text_color=ffffff&bg_color=0d1117" alt="Languages Graph" />
 </div>
-
+-->
 <div align="center"> 
-  <img src="https://leetcard.jacoblin.cool/thiagozulian?theme=dark&font=Arima%20Madurai&ext=heatmap" alt="LeetCode Stats"/>
+  <img width=45% src="https://leetcard.jacoblin.cool/thiagozulian?theme=dark&font=Arima%20Madurai&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 <br/>
 
