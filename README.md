@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Breve apresentação -->
-<p align="center">Since I've worked with data analysis on google sheets I noticed have a way with it and became passionate about it. Now I decided to learn more and I'm studying to be a Data Scientist </p>
+<p align="center">Since I've worked with data analysis on google sheets I noticed that I had a knack for it and became passionate about Data Analysist. Now I'm studying to be a Data Scientist </p>
 
 <br/>
 
