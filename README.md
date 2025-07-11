@@ -42,7 +42,7 @@
   <!-- Tecnologias já conhecidas -->
   <h3>Main Skills: </h3>
     <img alt="Python" src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=0D1117">
+    <img alt="BigQuery" src="https://img.shields.io/badge/bigquery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=669DF6&labelColor=0D1117">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0D1117.svg?style=for-the-badge&logo=Matplotlib&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-0D1117.svg?style=for-the-badge&logo=pandas&logoColor=574c84">
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-0D1117.svg?style=for-the-badge&logo=numpy&logoColor=013243">
