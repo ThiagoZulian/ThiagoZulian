@@ -5,3 +5,7 @@
 - [Repositório do Github Stats](https://github.com/anuraghazra/github-readme-stats)
 - [Site de Badges 1](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Fazedor de gifs](https://picrew.me/)
+
+- https://shields.io/badges
+- https://simpleicons.org
+- https://github.com/simple-icons/simple-icons/blob/master/slugs.md
