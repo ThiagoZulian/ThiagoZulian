@@ -29,23 +29,6 @@ building and shipping ML pipelines on <b>GCP / Vertex AI</b>. Previously at <b>N
 
 <div align="center">
 
-## 📊 Contributions
-
-<!-- Streak de commits https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoZulian&theme=dark&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat%2CSun&ring=f56e00&fire=ff7000&currStreakLabel=FF9344)](https://git.io/streak-stats)
-
-</div>
-
-<!-- Cards de stats https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoZulian&show_icons=true&count_private=true&hide_border=true&title_color=FF9344&icon_color=ff7000&text_color=ffffff&bg_color=0d1117" alt="Thiago Zulian github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoZulian&hide_border=true&layout=compact&title_color=FF9344&text_color=ffffff&bg_color=0d1117" alt="Languages Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🛠️ Tech Stack
 
 </div>
@@ -100,7 +83,6 @@ building and shipping ML pipelines on <b>GCP / Vertex AI</b>. Previously at <b>N
 🖥️ PC gamer · 🎸 guitar · 🎮 learning <b>Godot</b> for gamedev · 🐈 proud servant of <b>4 cats</b> · 🍥 anime fan slowly studying 日本語
 </p>
 
-<br/>
 <br/>
 
 <!-- Reflexo da imagem do topo -->
